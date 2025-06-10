@@ -1,5 +1,5 @@
 - 👋 Bonjour, je suis @skynet35
-- 👀 Mes passions pour l'électronique, l'informatique et la robotique me poussent a partager mes connasissance. 
+- 👀 Mes passions pour l'électronique, l'informatique et la robotique me poussent a partager mes connasissances. 
 - 🌱 J'apprends au fur et a mesure des projets que j'ai a concevoir, meme si j'adorerais savoir coder en C et arduino, sans avoir a demander de l'aide...
 
 
